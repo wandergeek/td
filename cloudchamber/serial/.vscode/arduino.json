@@ -1,0 +1,8 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "port": "COM5",
+    "sketch": "arduino-esp-serial-trigger\\arduino-esp-serial-trigger.ino",
+    "output": "./arduino-serial-trigger/.build",
+    "arduino.logLevel": "verbose"
+}
